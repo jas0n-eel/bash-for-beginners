@@ -9,6 +9,7 @@ check_even () {
     else 
        echo "The number $1 is odd!"
     fi
+    echo $0
 }
 
 
